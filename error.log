@@ -1,0 +1,2 @@
+HTTPSConnectionPool(host='api.shrtco.de', port=443): Max retries exceeded with url: /v2/shorten?url=https://medium-tsunami-chairman-breath.trycloudflare.com (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f78c345c650>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+Invalid URL 'www.facebook.com': No scheme supplied. Perhaps you meant https://www.facebook.com?
